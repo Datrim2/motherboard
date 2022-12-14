@@ -1,0 +1,7 @@
+*.sqlite3
+*.json
+*.project
+env
+__pycache__
+old_json
+old

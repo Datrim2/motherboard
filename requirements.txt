@@ -1,0 +1,5 @@
+SQLAlchemy
+requests
+pdfminer
+pdfminer.six
+google_trans_new
